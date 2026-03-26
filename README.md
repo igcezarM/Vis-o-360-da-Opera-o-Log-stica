@@ -1,0 +1,2 @@
+# Visão 360° da Operação Logística
+📊 Dashboard de logística desenvolvido no Microsoft Power BI para monitoramento de performance operacional e financeira.  📦 Reúne KPIs como volume, avarias, nível de serviço (prazo vs atraso), faturamento e custos de frete, permitindo identificar ineficiências e reduzir custos.  📱 Interface adaptada para desktop e mobile, garantindo acesso rápido às informações da operação.
